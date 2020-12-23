@@ -27,7 +27,7 @@ form {
 #banner {
 	border: 1px solid #6d96a9;
         width: 100%;
-        background-color: #dee6ee;
+        background-color: #5d6164;
 }
 #banner table {
         border-spacing: 0;
@@ -131,7 +131,7 @@ a:hover {
 }
 
 .row_alt:nth-child(odd) {
-	background-color: #dee6ee;
+	background-color: #5d6164;
 }
 .row_error {
 	background-color: #ffe0e0;
@@ -293,7 +293,7 @@ a:hover {
 	padding: 3px;
 	margin-top: 1em;
 	margin-bottom: 1em;
-	background-color: #dee6ee;
+	background-color: #5d6164;
 	text-align: right;
 }
 #config {
@@ -333,7 +333,7 @@ select.channels {
 	text-align: center;
 }
 #navigation .navi:hover {
-	background-color: #dee6ee;
+	background-color: #5d6164;
 }
 #navigation .search {
 	padding-top: 6px;
