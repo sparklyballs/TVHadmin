@@ -92,7 +92,7 @@ h2 {
 	font-size: 12px;
 	font-weight: normal;
 	text-align: right;
-	white-space: nowrap;
+	black-space: nowrap;
 }
 a,
 a:visited,
@@ -125,9 +125,9 @@ a:hover {
 .heading h2,
 .heading .channel_name {
 	font-weight: bold;
-	color: white;
+	color: black;
 	margin-top: 0px;
-	white-space: normal;
+	black-space: normal;
 }
 
 .row_alt:nth-child(odd) {
@@ -148,7 +148,7 @@ a:hover {
 .col_time {
 	padding-left: 3px;
 	padding-right: 3px;
-	white-space: nowrap;
+	black-space: nowrap;
 }
 .col_channels {
 	text-align: right;
@@ -176,7 +176,7 @@ a:hover {
 	display: none;
 }
 .media {
-	white-space: nowrap;
+	black-space: nowrap;
 	display: inline-block;
 }
 
@@ -185,7 +185,7 @@ a:hover {
         height: 17px;
         background-color: #6d96a9;
         font-weight: bold;
-        color: white;
+        color: black;
 }
 .newday th {
 	height: 17px;
@@ -194,7 +194,7 @@ a:hover {
 	top: 0;
 	padding-left: 3px;
 	font-weight: bold;
-	color: white;
+	color: black;
 	text-align: left;
 }
 #whatson .epg_title,
@@ -228,12 +228,12 @@ a:hover {
 }
 #timeline .col_schedule {
 	width: 100%;
-	white-space: nowrap;
+	black-space: nowrap;
 }
 #timeline .spacer {
 	float: left;
 	background-color: #e0e0e0;
-	white-space: nowrap;
+	black-space: nowrap;
 }
 #timeline .item {
 	float: left;
@@ -243,7 +243,7 @@ a:hover {
 	border-bottom:1px solid #6d96a9;
 	border-left:1px solid #6d96a9;
 	border-right:0px none;
-	white-space: nowrap;
+	black-space: nowrap;
 }
 
 #timenow {
@@ -266,7 +266,7 @@ a:hover {
 	padding-left: 3px;
 	padding-right: 3px;
 	min-width: 50px;
-	white-space: normal;
+	black-space: normal;
 }
 .col_channel {
 	overflow: hidden;
@@ -358,7 +358,7 @@ select.channels {
 	#navigation {
 		margin: 50px 0 0 -155px;
 		position: fixed;
-		background-color: white;
+		background-color: black;
 	}
 	.wideonly,
 	#navigation .logo {
