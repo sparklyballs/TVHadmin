@@ -135,7 +135,7 @@
 	  <img src='images/spacer.gif' width=1 height=1 alt=''>
 	 </div>";
 		    }
-		    $colour = '#b4e29c';
+		    $colour = '#7e5530';
 		    $tnext = min($tnext, $p['stop']);
 		    $p['onNow'] = 1;
 		}
